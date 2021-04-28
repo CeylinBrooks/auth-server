@@ -10,7 +10,7 @@
 
 - [ci/cd]https://github.com/CeylinBrooks/auth-server/blob/main/.github/workflows/npm-publish.yml) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [front-end application](https://auth-server01.herokuapp.com/) (when applicable)
 
 ### Setup
 
